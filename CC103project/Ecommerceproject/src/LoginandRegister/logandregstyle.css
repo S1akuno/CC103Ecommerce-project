@@ -1,0 +1,17 @@
+.GettingStartedbg{
+	-fx-background-image:url("Backgrounds/getting started.png");
+	-fx-background-repeat: stretch;
+	-fx-background-position: center center; 
+}
+
+.Loginbg{
+	-fx-background-image:url("Backgrounds/login.png");
+	-fx-background-repeat: stretch;
+	-fx-background-position: center center;
+}
+
+.Registerbg{
+	-fx-background-image:url("Backgrounds/register.png");
+	-fx-background-repeat: stretch;
+	-fx-background-position: center center; 
+}
